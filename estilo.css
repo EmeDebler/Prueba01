@@ -1,7 +1,32 @@
 
-.fondo2{
+body{
 background-color: #8AF2FA;
+font-family: Comic Sans MS;
+}
+.fondo{
+	background-image: url(porta.jpg);
 }
 .fondo3{
-background-color: white; 
+background-color: #0C4E74; 
+color: white;
+}
+.margen{
+	border: 1px solid #0B80C2;
+        }
+.sinp{
+	padding: 0;
+}
+.fondo2{
+	background-color: #ABC7D9;
+	border: 2px solid #0B80C2;
+	border-radius: 5px;
+}
+.letra{
+	color: #FA094B;
+}
+.letra1{
+	color: #D7E824;
+}
+.tm{
+	font-size: 12px;
 }
