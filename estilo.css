@@ -1,14 +1,46 @@
 
 body{
 background-color: #8AF2FA;
-font-family: Comic Sans MS;
+font-family: 'Patrick Hand', cursive;
 }
 .fondo{
 	background-image: url(porta.jpg);
 }
+.fondo1{
+	background-color: #EFFB71;
+	border: 2px solid #DDF10D;
+	border-radius: 5px;
+}
+.fondo2{
+	background-color: #ABC7D9;
+	border: 2px solid #0B80C2;
+	border-radius: 5px;
+}
 .fondo3{
 background-color: #0C4E74; 
 color: white;
+}
+.fondo4{
+	background-color: #CC90FE;
+	border: 2px solid #740EC9;
+	border-radius: 5px;
+}
+.fondo5{
+	background-color: #FEDA6A;
+	border: 2px solid #FFBD00;
+	border-radius: 5px;
+}.fondo6{
+	background-color: #BFF868;
+	border: 2px solid #7FD102;
+	border-radius: 5px;
+}
+.fondo7{
+	background-color: #F78BBB;
+	border: 2px solid #D0065F;
+	border-radius: 5px;
+}
+.fondo8{
+	background-color: #B6FC77; 
 }
 .margen{
 	border: 1px solid #0B80C2;
@@ -16,17 +48,27 @@ color: white;
 .sinp{
 	padding: 0;
 }
-.fondo2{
-	background-color: #ABC7D9;
-	border: 2px solid #0B80C2;
-	border-radius: 5px;
-}
 .letra{
 	color: #FA094B;
 }
 .letra1{
 	color: #D7E824;
 }
+.letra2{
+	color: #309E00;
+}
+.letra3{
+	color: #0620A3;
+}
+.letra4{
+	color: #F93A0F;
+}
+.letra5{
+	color: #FF8F01;
+}
 .tm{
 	font-size: 12px;
+}
+.tm2{
+	font-size: 19px;
 }
